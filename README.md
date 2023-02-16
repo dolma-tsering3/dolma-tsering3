@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @dolma-tsering3
-- 👀 I’m interested in java
 - 🌱 I’m currently learning git/github
-- 💞️ I’m looking to collaborate on java related 
 - 📫 How to reach me ...
 
 <!---
